@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfredDowuona-Owoo
-- 👀 I’m interested in Data analytics 
-- 🌱 I’m currently learning Power BI and python 
+- 👀 I’m interested in Data analytics (Power BI developer) 
+- 🌱 I’m currently learning Data Science with python 
 - 💞️ I’m looking to collaborate on Data Analytics in Banking
 - 📫 Reach me on alfredowoo90@gmail.com
 
